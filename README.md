@@ -1,6 +1,3 @@
-Here's a README for your oil spill segmentation and classification project:
-
----
 
 # Oil Spill Segmentation and Classification Project
 
@@ -24,6 +21,8 @@ cd [repository-directory]
 pip install -r requirements.txt
 ```
 
+## Dataset Used
+- **Link**: https://drive.google.com/drive/folders/1glXjjL4CW6BPNprsAXk9ICJ8-EzKRTCe?usp=drive_link
 
 ## Models Used
 - **U-Net**: Convolutional Network for high-performance image segmentation.
